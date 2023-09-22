@@ -1,3 +1,0 @@
-aiohttp==3.8.5
-aiohttp-jinja2==1.5.1
-faker==18.13.0
